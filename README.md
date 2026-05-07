@@ -6,7 +6,28 @@
 
 > A collection of essential resources, including libraries and open-source projects, that are tailored to support individuals and businesses in their use of the [Shopify](https://www.shopify.com) e-commerce platform.
 
-We hope you find this repository useful! If so, please consider giving it a ⭐ to show your support.
+<br><br>
+
+<p align="center">
+<a href="https://github.com/Esha98" target="_blank">
+    <img src="made-for-knowledge.svg" alt="made for knowledge" />
+ </a>
+  <a href="https://github.com/Esha98" target="_blank">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="built with love badge" />
+ </a>
+  <a href="https://github.com/Esha98" target="_blank">
+    <img src="https://forthebadge.com/images/badges/open-source.svg" alt="open source badge" />
+ </a>
+ <br />
+ <a href="https://github.com/Esha98" target="_blank">
+    <img src="https://forthebadge.com/images/badges/check-it-out.svg" alt="check it out badge" />
+ </a>
+  <a href="https://github.com/Esha98" target="_blank">
+    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="built by developers badge" />
+ </a>
+</p>
+
+We hope you find this repository useful! If so, please consider giving it a ⭐ to show your support ❤️
 
 Before submitting any new resources, we kindly request that you take a moment to review our [`contributing guidelines`](./Contributing.md).
 
