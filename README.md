@@ -66,6 +66,7 @@ Here's a general pathway for becoming a Shopify developer:
 - [Shopify Theme Inspector for Chrome](https://shopify.dev/themes/tools/theme-inspector)
 - [Shopify Lighthouse CLI](https://shopify.dev/themes/tools/lighthouse-ci)
 - [Dawn Reference Theme](https://shopify.dev/themes/tools/dawn)
+- [Stocky Swap](https://stackarchitect.xyz/)
 
 ## Books️
 
