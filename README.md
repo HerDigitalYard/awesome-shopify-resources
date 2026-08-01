@@ -60,6 +60,7 @@ Here's a general pathway for becoming a Shopify developer:
 - [Shopify GitHub Integration](https://shopify.dev/themes/tools/github)
 - [Theme Editor](https://shopify.dev/themes/tools/online-editor)
 - [Shopify Lighthouse CI GitHub Action OR Lighthouse CI](https://shopify.dev/themes/tools/cli)
+- [Shopify App Review Triage Worksheet](https://alfredtech2026.github.io/shopify-app-review-brief/tools/review-triage-worksheet.html?utm_source=awesome-shopify-resources&utm_medium=resource-directory&utm_campaign=inbound-validation) - Free, privacy-first browser worksheet for turning public app-review rows into a prioritized Markdown action brief.
 - [Development Stores](https://shopify.dev/themes/tools/development-stores)
 - [Collaborator Accounts](https://shopify.dev/themes/tools/collaborator-accounts)
 - [Theme Check](https://shopify.dev/themes/tools/theme-check)
