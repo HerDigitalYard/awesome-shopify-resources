@@ -115,6 +115,7 @@ Here's a general pathway for becoming a Shopify developer:
 <a href="#table-of-contents"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=blue&style=flat&logo" alt="back to top" /></a>
 
 ## Learning
+- [Catalog Rescue: Supplier CSV to Shopify pre-import guide](https://catalog-rescue-live.vercel.app/) - Practical checklist for handles, variants, inventory, images, and destructive update risks before importing supplier data into Shopify.
 
 - [Shopify Plus Academy](https://plusacademy.shopify.com/?&utm_source=community&utm_medium=web&utm_campaign=learnmenu&utm_term=EN)
 - [Developer](https://shopify.dev/?&utm_source=community&utm_medium=web&utm_campaign=learnmenu&utm_term=EN)
